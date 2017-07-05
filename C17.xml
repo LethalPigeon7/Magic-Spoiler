@@ -81,5 +81,18 @@ Whenever one or more Dragons you control attack, draw that many cards, then you 
 <text>Flying, trample
 Whenever Wasitora, Nekoru Queen deals combat damage to a player, that player sacrifices a creature. If the player can't, you create a 3/3 black, red, and green Cat Dragon creature token with flying.</text>
 </card>
+<card>
+<name>Arahbo, Roar of the World</name>
+<set rarity="Mythic Rare" picURL="http://www.mythicspoiler.com/c17/cards/arahboroaroftheworld.jpg">C17</set>
+<manacost>3GW</manacost>
+<cmc>5</cmc>
+<color>W</color>
+<color>G</color>
+<type>Legendary Creature - Cat Avatar</type>
+<pt>5/5</pt>
+<tablerow>2</tablerow>
+<text>Eminence - At the beginning of combat on your turn, if Arahbo, Roar of the World is in the command zone or on the battlefield, another target Cat you control gets +3/+3 until end of turn.
+Whenever another Cat you control attacks, you may pay 1GW. If you do, it gains trample and gets +X/+X until end of turn, where X is its power.</text>
+</card>
 </cards>
 </cockatrice_carddatabase>
